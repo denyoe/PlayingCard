@@ -12,10 +12,10 @@ import UIKit
 class PlayingCardView: UIView {
     
     @IBInspectable
-    var rank: Int = 5 { didSet { setNeedsDisplay(); setNeedsLayout() } }
+    var rank: Int = 1 { didSet { setNeedsDisplay(); setNeedsLayout() } }
     
     @IBInspectable
-    var suit: String = "♠️" { didSet { setNeedsDisplay(); setNeedsLayout() } }
+    var suit: String = "♣️" { didSet { setNeedsDisplay(); setNeedsLayout() } }
     
     @IBInspectable
     var isFaceUp: Bool = true { didSet { setNeedsDisplay(); setNeedsLayout() } }

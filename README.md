@@ -2,6 +2,8 @@
 
 iOS App with renders of playing cards.
 
+![App Screenshot](screenshot.png)
+
 ---
 
 ##### Topics Covered

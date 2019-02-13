@@ -25,12 +25,6 @@
                                     <constraint firstAttribute="width" secondItem="sDD-3G-bs7" secondAttribute="height" multiplier="5:8" id="8PE-j7-zPl"/>
                                     <constraint firstAttribute="width" priority="750" constant="700" id="euI-vO-d9Z"/>
                                 </constraints>
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="rank">
-                                        <integer key="value" value="9"/>
-                                    </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="string" keyPath="suit" value="♦️"/>
-                                </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" red="0.68318420648574829" green="0.62386930279644959" blue="0.47561149016363885" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
