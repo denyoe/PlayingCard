@@ -2,7 +2,7 @@
 
 iOS App with renders of playing cards.
 
-![App Screenshot](screenshot.png)
+<img src="screenshot.png" alt="App Screenshot" width="500" height="500">
 
 ---
 
