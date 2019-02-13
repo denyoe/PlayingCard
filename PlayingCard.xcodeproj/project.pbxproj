@@ -14,6 +14,8 @@
 		5328A5EA2210136D00A0AE60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5328A5E82210136D00A0AE60 /* LaunchScreen.storyboard */; };
 		53CB7CE122126DFF003A065F /* PlayingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CB7CE022126DFF003A065F /* PlayingCard.swift */; };
 		53CB7CE32212707B003A065F /* PlayingCardDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CB7CE22212707B003A065F /* PlayingCardDeck.swift */; };
+		53CB7CE52213E699003A065F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 53CB7CE42213E699003A065F /* README.md */; };
+		53CB7CE72213E8E7003A065F /* PlayingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CB7CE62213E8E7003A065F /* PlayingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		5328A5EB2210136D00A0AE60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		53CB7CE022126DFF003A065F /* PlayingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCard.swift; sourceTree = "<group>"; };
 		53CB7CE22212707B003A065F /* PlayingCardDeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardDeck.swift; sourceTree = "<group>"; };
+		53CB7CE42213E699003A065F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		53CB7CE62213E8E7003A065F /* PlayingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				53CB7CDF22126DD6003A065F /* Supporting Files */,
 				5328A5E12210136B00A0AE60 /* ViewController.swift */,
 				53CB7CE022126DFF003A065F /* PlayingCard.swift */,
+				53CB7CE62213E8E7003A065F /* PlayingCardView.swift */,
+				53CB7CE42213E699003A065F /* README.md */,
 				53CB7CE22212707B003A065F /* PlayingCardDeck.swift */,
 				5328A5E32210136B00A0AE60 /* Main.storyboard */,
 				5328A5E62210136D00A0AE60 /* Assets.xcassets */,
@@ -138,6 +144,7 @@
 			files = (
 				5328A5EA2210136D00A0AE60 /* LaunchScreen.storyboard in Resources */,
 				5328A5E72210136D00A0AE60 /* Assets.xcassets in Resources */,
+				53CB7CE52213E699003A065F /* README.md in Resources */,
 				5328A5E52210136B00A0AE60 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -152,6 +159,7 @@
 				5328A5E22210136B00A0AE60 /* ViewController.swift in Sources */,
 				53CB7CE32212707B003A065F /* PlayingCardDeck.swift in Sources */,
 				53CB7CE122126DFF003A065F /* PlayingCard.swift in Sources */,
+				53CB7CE72213E8E7003A065F /* PlayingCardView.swift in Sources */,
 				5328A5E02210136B00A0AE60 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
